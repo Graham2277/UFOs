@@ -23,6 +23,7 @@ function buildTable(data) {
         }
       );
     });
+}
 // Filter data table
 function handleClick() {
   // Grab the datetime value from the filter
